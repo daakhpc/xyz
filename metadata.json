@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Adventure Weaver",
+  "description": "A dynamic text adventure game where the story and visuals are generated in real-time by AI. Every choice creates a new path in an endless world of possibilities.",
+  "requestFramePermissions": []
+}
